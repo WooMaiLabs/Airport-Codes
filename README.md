@@ -2,6 +2,8 @@
 
 Get airport information from Wikipedia.
 
+Contains airports with IATA codes only.
+
 ## Preset Data
 
 If you would like to get preset data, See [/preset-data](/preset-data).
