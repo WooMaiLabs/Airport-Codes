@@ -36,6 +36,20 @@ python3 main.py -o results/chinese.json -l zh -v zh-hk --http-proxy http://user:
 
 > Please note that data from the non-English Wikipedia may missing some information. (e.g. ICAO Codes)
 
+* `de` - German
+* `el` - Greek
+* `en` - English (Default)
+* `fa` - Persian
+* `fr` - French
+* `hi` - Hindi
+* `hr` - Croatian
+* `it` - Italian
+* `ja` - Japanese
+* `lb` - Luxembourgish
+* `nl` - Flemish
+* `pl` - Polish
+* `zh` - Chinese
+
 ## License
 
 MIT
