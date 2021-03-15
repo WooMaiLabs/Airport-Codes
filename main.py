@@ -41,13 +41,36 @@ for url in urls:
         vals = tr.find_all('td')
         row = []
         for val in vals:
-            text = val.text.strip()
+            try:
+                if val.contents[0] is not None:
+                    text = val.contents[0]
+                    try:
+                        text = text.text
+                    except AttributeError:
+                        text = text.strip()
+                    finally:
+                        text = text.strip()
+                else:
+                    text = val.text.strip()
+            except IndexError:
+                text = val.text.strip()
+
             if len(text) > 0:
                 row.append(text)
+            else:
+                row.append(None)
         if len(row) > 0:
             codes.append(row)
 
-f.write(json.dumps(codes))
+result = []
+for airport in codes:
+    result.append({
+        'iata_code': airport[0],
+        'icao_code': airport[1],
+        'name': airport[2],
+        'location': airport[3]
+    })
+f.write(json.dumps(result, indent=4))
 f.close()
 
 print('Result saved as {}'.format(output))
