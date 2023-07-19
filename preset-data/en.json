@@ -19,7 +19,7 @@
     },
     {
         "iata_code": "AAD",
-        "icao_code": "TVSV",
+        "icao_code": "HCAD",
         "name": "Adado Airport",
         "location": "Adado"
     },
@@ -109,7 +109,7 @@
     },
     {
         "iata_code": "AAS",
-        "icao_code": "DAAS",
+        "icao_code": null,
         "name": "Apalapsili Airport",
         "location": "Apalapsili"
     },
@@ -189,7 +189,7 @@
         "iata_code": "ABG",
         "icao_code": "YABI",
         "name": "Abingdon Airport",
-        "location": "Abingdon"
+        "location": "Abingdon Downs"
     },
     {
         "iata_code": "ABH",
@@ -572,7 +572,7 @@
     {
         "iata_code": "ADX",
         "icao_code": "EGQL",
-        "name": "RAF Leuchars",
+        "name": "Leuchars Station",
         "location": "St Andrews"
     },
     {
@@ -704,7 +704,7 @@
     {
         "iata_code": "AFF",
         "icao_code": "KAFF",
-        "name": "United States Air Force Academy",
+        "name": "United States Air Force Academy Airfield",
         "location": "Colorado Springs"
     },
     {
@@ -740,7 +740,7 @@
     {
         "iata_code": "AFR",
         "icao_code": "AYAF",
-        "name": "Afore Airport",
+        "name": "Afore Airstrip",
         "location": "Afore"
     },
     {
@@ -2864,7 +2864,7 @@
     {
         "iata_code": "AXB",
         "icao_code": null,
-        "name": "Maxson Airfield",
+        "name": "Maxson Airfield (FAA: 89N)",
         "location": "Alexandria Bay"
     },
     {
@@ -5888,7 +5888,7 @@
     {
         "iata_code": "BTC",
         "icao_code": "VCCB",
-        "name": "Batticaloa Airport",
+        "name": "Batticaloa International Airport",
         "location": "Batticaloa"
     },
     {
@@ -6068,7 +6068,7 @@
     {
         "iata_code": "BUH",
         "icao_code": null,
-        "name": "metropolitan area",
+        "name": "Bucharest Baneasa",
         "location": "Bucharest"
     },
     {
@@ -6247,7 +6247,7 @@
     },
     {
         "iata_code": "BVM",
-        "icao_code": "SNBL",
+        "icao_code": "SD6P",
         "name": "Belmonte Airport",
         "location": "Belmonte"
     },
@@ -8691,7 +8691,7 @@
         "iata_code": "CNN",
         "icao_code": "VOKN",
         "name": "Kannur International Airport",
-        "location": "kannur"
+        "location": "Kannur"
     },
     {
         "iata_code": "CNO",
@@ -10608,6 +10608,12 @@
         "location": "Douglas Lake"
     },
     {
+        "iata_code": "DGH",
+        "icao_code": "VEDO",
+        "name": "Deoghar Airport",
+        "location": "Deoghar"
+    },
+    {
         "iata_code": "DGK",
         "icao_code": null,
         "name": "Dugong Beach Lodge Airstrip",
@@ -11234,7 +11240,7 @@
     {
         "iata_code": "DOC",
         "icao_code": null,
-        "name": "Dornoch Airport",
+        "name": "Dornoch Airfield",
         "location": "Dornoch"
     },
     {
@@ -11246,8 +11252,8 @@
     {
         "iata_code": "DOE",
         "icao_code": null,
-        "name": "Djoemoe Airstrip",
-        "location": "Djoemoe"
+        "name": "Djumu Airstrip",
+        "location": "Djumu"
     },
     {
         "iata_code": "DOG",
@@ -11482,6 +11488,12 @@
         "icao_code": "KDRO",
         "name": "Durango\u2013La Plata County Airport",
         "location": "Durango"
+    },
+    {
+        "iata_code": "DRP",
+        "icao_code": "RPLK",
+        "name": "Bicol International Airport",
+        "location": "Daraga, Albay"
     },
     {
         "iata_code": "DRR",
@@ -11934,6 +11946,12 @@
         "location": "Dzaoudzi"
     },
     {
+        "iata_code": "DZH",
+        "icao_code": "ZUDA",
+        "name": "Dazhou Jinya Airport",
+        "location": "Dazhou"
+    },
+    {
         "iata_code": "DZI",
         "icao_code": null,
         "name": "Codazzi Airport",
@@ -12234,6 +12252,12 @@
         "location": "Edwards"
     },
     {
+        "iata_code": "EEA",
+        "icao_code": "SNCP",
+        "name": "Planalto Serrano Regional Airport",
+        "location": "Correia Pinto"
+    },
+    {
         "iata_code": "EED",
         "icao_code": "KEED",
         "name": "Needles Airport",
@@ -12364,6 +12388,12 @@
         "icao_code": "PAEH",
         "name": "Cape Newenham LRRS Airport",
         "location": "Cape Newenham"
+    },
+    {
+        "iata_code": "EHU",
+        "icao_code": "ZHEC",
+        "name": "Ezhou Huahu Airport",
+        "location": "Echeng District"
     },
     {
         "iata_code": "EIA",
@@ -13623,7 +13653,7 @@
         "iata_code": "FBG",
         "icao_code": "KFBG",
         "name": "Simmons Army Airfield",
-        "location": "Fort Bragg"
+        "location": "Fort Liberty"
     },
     {
         "iata_code": "FBK",
@@ -14144,7 +14174,7 @@
     {
         "iata_code": "FMO",
         "icao_code": "EDDG",
-        "name": "M\u00fcnster Osnabr\u00fcck International Airport",
+        "name": "M\u00fcnster Osnabr\u00fcck Airport",
         "location": "M\u00fcnster"
     },
     {
@@ -15051,7 +15081,7 @@
         "iata_code": "GCI",
         "icao_code": "EGJB",
         "name": "Guernsey Airport",
-        "location": "Guernsey"
+        "location": "The Forest"
     },
     {
         "iata_code": "GCJ",
@@ -15526,6 +15556,12 @@
         "icao_code": "SAAG",
         "name": "Gualeguaych\u00fa Airport",
         "location": "Gualeguaych\u00fa"
+    },
+    {
+        "iata_code": "GHV",
+        "icao_code": "LRBV",
+        "name": "Bra\u0219ov-Ghimbav International Airport",
+        "location": "Bra\u0219ov"
     },
     {
         "iata_code": "GIB",
@@ -16076,7 +16112,7 @@
     {
         "iata_code": "GOI",
         "icao_code": "VOGO",
-        "name": "Goa International Airport",
+        "name": "Dabolim Airport",
         "location": "Dabolim"
     },
     {
@@ -16156,6 +16192,12 @@
         "icao_code": "YPGV",
         "name": "Gove Airport",
         "location": "Nhulunbuy"
+    },
+    {
+        "iata_code": "GOX",
+        "icao_code": "VOGA",
+        "name": "Manohar International Airport",
+        "location": "Mopa"
     },
     {
         "iata_code": "GOZ",
@@ -16293,7 +16335,7 @@
         "iata_code": "GRK",
         "icao_code": "KGRK",
         "name": "Killeen\u2013Fort Hood Regional Airport",
-        "location": "Fort Hood"
+        "location": "Fort Cavazos"
     },
     {
         "iata_code": "GRL",
@@ -17238,6 +17280,12 @@
         "location": "Cheraw"
     },
     {
+        "iata_code": "HCZ",
+        "icao_code": "ZGCZ",
+        "name": "Chenzhou Beihu Airport",
+        "location": "Chenzhou"
+    },
+    {
         "iata_code": "HDB",
         "icao_code": "EDIU",
         "name": "Heidelberg Airport",
@@ -17468,7 +17516,7 @@
     {
         "iata_code": "HGL",
         "icao_code": "EDXH",
-        "name": "Heligoland Airport",
+        "name": "Heligoland Airfield",
         "location": "Heligoland"
     },
     {
@@ -17804,8 +17852,8 @@
     {
         "iata_code": "HLR",
         "icao_code": "KHLR",
-        "name": "Hood Army Airfield",
-        "location": "Fort Hood"
+        "name": "Yoakum\u2013DeFrenn Army Heliport",
+        "location": "Fort Cavazos"
     },
     {
         "iata_code": "HLS",
@@ -18748,6 +18796,12 @@
         "icao_code": "EFHV",
         "name": "Hyvink\u00e4\u00e4 Airfield",
         "location": "Hyvink\u00e4\u00e4"
+    },
+    {
+        "iata_code": "HZA",
+        "icao_code": "ZSHZ",
+        "name": "Heze Mudan Airport",
+        "location": "Heze"
     },
     {
         "iata_code": "HZB",
@@ -19707,7 +19761,7 @@
         "iata_code": "IOM",
         "icao_code": "EGNS",
         "name": "Isle of Man Airport",
-        "location": "Isle of Man"
+        "location": "Ronaldsway"
     },
     {
         "iata_code": "ION",
@@ -20036,7 +20090,7 @@
     {
         "iata_code": "IST",
         "icao_code": "LTFM",
-        "name": "Istanbul New Airport",
+        "name": "Istanbul Airport",
         "location": "Istanbul"
     },
     {
@@ -20438,7 +20492,7 @@
     {
         "iata_code": "JAF",
         "icao_code": "VCCJ",
-        "name": "Jaffna Airport",
+        "name": "Jaffna International Airport",
         "location": "Jaffna"
     },
     {
@@ -22590,6 +22644,12 @@
         "location": "Krasnoyarsk"
     },
     {
+        "iata_code": "KJB",
+        "icao_code": "VOKU",
+        "name": "Kurnool Airport",
+        "location": "Orvakal"
+    },
+    {
         "iata_code": "KJH",
         "icao_code": null,
         "name": "Kaili Huangping Airport",
@@ -23593,7 +23653,7 @@
     },
     {
         "iata_code": "KRT",
-        "icao_code": "HSSS",
+        "icao_code": "HSSK",
         "name": "Khartoum International Airport",
         "location": "Khartoum"
     },
@@ -24560,7 +24620,7 @@
     {
         "iata_code": "LAS",
         "icao_code": "KLAS",
-        "name": "McCarran International Airport",
+        "name": "Harry Reid International Airport",
         "location": "Las Vegas"
     },
     {
@@ -25308,12 +25368,6 @@
         "location": "Langeoog"
     },
     {
-        "iata_code": "LGP",
-        "icao_code": "RPLP",
-        "name": "Bicol International Airport",
-        "location": "Legazpi"
-    },
-    {
         "iata_code": "LGQ",
         "icao_code": "SENL",
         "name": "Lago Agrio Airport",
@@ -25930,6 +25984,12 @@
         "icao_code": "WIDL",
         "name": "Letung Airport",
         "location": "Anambas Islands"
+    },
+    {
+        "iata_code": "LMV",
+        "icao_code": null,
+        "name": "Madivaru Airport",
+        "location": "Madivaru"
     },
     {
         "iata_code": "LMX",
@@ -28383,7 +28443,7 @@
         "iata_code": "MHP",
         "icao_code": "UMMM",
         "name": "Minsk-1 Airport",
-        "location": "Minsk"
+        "location": "Minsk, Belarus"
     },
     {
         "iata_code": "MHQ",
@@ -28886,7 +28946,7 @@
     {
         "iata_code": "MLB",
         "icao_code": "KMLB",
-        "name": "Orlando Melbourne International Airport",
+        "name": "Melbourne Orlando International Airport",
         "location": "Melbourne"
     },
     {
@@ -29398,6 +29458,12 @@
         "icao_code": "MEMO",
         "name": "Moengo Airstrip",
         "location": "Moengo"
+    },
+    {
+        "iata_code": "MOK",
+        "icao_code": "UNTM",
+        "name": "Muynak Airport",
+        "location": "Muynak"
     },
     {
         "iata_code": "MOL",
@@ -31125,7 +31191,7 @@
         "iata_code": "NAC",
         "icao_code": "YNRC",
         "name": "Naracoorte Airport",
-        "location": "Naracoorte"
+        "location": "Naracoorte, South Australia"
     },
     {
         "iata_code": "NAD",
@@ -31509,7 +31575,7 @@
         "iata_code": "NDS",
         "icao_code": "YSAN",
         "name": "Sandstone Airport",
-        "location": "Sandstone"
+        "location": "Sandstone, Western Australia"
     },
     {
         "iata_code": "NDU",
@@ -31617,7 +31683,7 @@
         "iata_code": "NGA",
         "icao_code": "YYNG",
         "name": "Young Airport",
-        "location": "Young"
+        "location": "Young, New South Wales"
     },
     {
         "iata_code": "NGB",
@@ -32061,7 +32127,7 @@
         "iata_code": "NLS",
         "icao_code": null,
         "name": "Nicholson Airport",
-        "location": "Nicholson"
+        "location": "Nicholson, Western Australia"
     },
     {
         "iata_code": "NLT",
@@ -32133,7 +32199,7 @@
         "iata_code": "NMP",
         "icao_code": null,
         "name": "New Moon Airport",
-        "location": "New Moon"
+        "location": "New Moon, Queensland"
     },
     {
         "iata_code": "NMR",
@@ -32379,7 +32445,7 @@
         "iata_code": "NPP",
         "icao_code": null,
         "name": "Napperby Airport",
-        "location": "Napperby"
+        "location": "Napperby Station"
     },
     {
         "iata_code": "NPR",
@@ -32480,7 +32546,7 @@
     {
         "iata_code": "NRD",
         "icao_code": "EDWY",
-        "name": "Norderney Airport",
+        "name": "Norderney Airfield",
         "location": "Norderney"
     },
     {
@@ -32589,7 +32655,7 @@
         "iata_code": "NSM",
         "icao_code": "YNSM",
         "name": "Norseman Airport",
-        "location": "Norseman"
+        "location": "Norseman, Western Australia"
     },
     {
         "iata_code": "NSN",
@@ -32601,7 +32667,7 @@
         "iata_code": "NSO",
         "icao_code": "YSCO",
         "name": "Scone Airport",
-        "location": "Scone"
+        "location": "Scone, New South Wales"
     },
     {
         "iata_code": "NST",
@@ -32660,7 +32726,7 @@
     {
         "iata_code": "NTI",
         "icao_code": null,
-        "name": "Stenkol Airport",
+        "name": "Stenkool Airport",
         "location": "Bintuni"
     },
     {
@@ -32673,7 +32739,7 @@
         "iata_code": "NTL",
         "icao_code": "YWLM",
         "name": "Newcastle Airport",
-        "location": "Newcastle"
+        "location": "Newcastle, New South Wales"
     },
     {
         "iata_code": "NTM",
@@ -32685,7 +32751,7 @@
         "iata_code": "NTN",
         "icao_code": "YNTN",
         "name": "Normanton Airport",
-        "location": "Normanton"
+        "location": "Normanton, Queensland"
     },
     {
         "iata_code": "NTO",
@@ -32823,7 +32889,7 @@
         "iata_code": "NUR",
         "icao_code": "YNUB",
         "name": "Nullabor Motel Airport",
-        "location": "Nullarbor"
+        "location": "Nullarbor, South Australia"
     },
     {
         "iata_code": "NUS",
@@ -32994,12 +33060,6 @@
         "location": "Nyngan"
     },
     {
-        "iata_code": "NYS",
-        "icao_code": null,
-        "name": "New York Skyports Seaplane Base",
-        "location": "New York City"
-    },
-    {
         "iata_code": "NYO",
         "icao_code": "ESKN",
         "name": "Stockholm Skavsta Airport",
@@ -33010,6 +33070,12 @@
         "icao_code": "UENN",
         "name": "Nyurba Airport",
         "location": "Nyurba"
+    },
+    {
+        "iata_code": "NYS",
+        "icao_code": null,
+        "name": "New York Skyports Seaplane Base",
+        "location": "New York City"
     },
     {
         "iata_code": "NYT",
@@ -34905,7 +34971,7 @@
         "iata_code": "OZR",
         "icao_code": "KOZR",
         "name": "Cairns Army Airfield",
-        "location": "Fort Rucker"
+        "location": "Fort Novosel"
     },
     {
         "iata_code": "OZZ",
@@ -36068,7 +36134,7 @@
     {
         "iata_code": "PKM",
         "icao_code": null,
-        "name": "Port Kaituma Airstrip",
+        "name": "Port Kaituma Airport",
         "location": "Port Kaituma"
     },
     {
@@ -36380,7 +36446,7 @@
     {
         "iata_code": "PMT",
         "icao_code": null,
-        "name": "Paramakatoi Airstrip",
+        "name": "Paramakatoi Airport",
         "location": "Paramakatoi"
     },
     {
@@ -36555,7 +36621,7 @@
         "iata_code": "POB",
         "icao_code": "KPOB",
         "name": "Pope Field",
-        "location": "Fort Bragg"
+        "location": "Fort Liberty"
     },
     {
         "iata_code": "POC",
@@ -37281,7 +37347,7 @@
         "iata_code": "PTZ",
         "icao_code": "SEPA",
         "name": "R\u00edo Amazonas Airport",
-        "location": "Shell Mera"
+        "location": "Shell"
     },
     {
         "iata_code": "PUA",
@@ -37794,6 +37860,12 @@
         "location": "Pie\u0161\u0165any"
     },
     {
+        "iata_code": "QAH",
+        "icao_code": "VIDX",
+        "name": "Hindon Airport",
+        "location": "Delhi"
+    },
+    {
         "iata_code": "QAQ",
         "icao_code": "LIAP",
         "name": "L'Aquila\u2013Preturo Airport",
@@ -37803,7 +37875,7 @@
         "iata_code": "QBC",
         "icao_code": "CYBD",
         "name": "Bella Coola Airport",
-        "location": "Bella Coola"
+        "location": "British Columbia"
     },
     {
         "iata_code": "QCY",
@@ -37879,7 +37951,7 @@
     },
     {
         "iata_code": "QSZ",
-        "icao_code": null,
+        "icao_code": "ZWSC",
         "name": "Shache Airport",
         "location": "Shache"
     },
@@ -37912,6 +37984,12 @@
         "icao_code": null,
         "name": "Wilgrove Air Park",
         "location": "Charlotte"
+    },
+    {
+        "iata_code": "QXB",
+        "icao_code": "LFMA",
+        "name": "Aix-en-Provence Aerodrome",
+        "location": "Aix-en-Provence"
     },
     {
         "iata_code": "RAA",
@@ -39038,7 +39116,7 @@
     {
         "iata_code": "RML",
         "icao_code": "VCCC",
-        "name": "Ratmalana Airport",
+        "name": "Colombo International Airport, Ratmalana",
         "location": "Colombo"
     },
     {
@@ -39348,6 +39426,12 @@
         "location": "Roper Bar"
     },
     {
+        "iata_code": "RPI",
+        "icao_code": null,
+        "name": "Rampi Airport",
+        "location": "Rampi"
+    },
+    {
         "iata_code": "RPM",
         "icao_code": "YNGU",
         "name": "Ngukurr Airport",
@@ -39484,6 +39568,12 @@
         "icao_code": "PARS",
         "name": "Russian Mission Airport",
         "location": "Russian Mission"
+    },
+    {
+        "iata_code": "RSI",
+        "icao_code": null,
+        "name": "Red Sea International Airport",
+        "location": "Red Sea Project"
     },
     {
         "iata_code": "RSJ",
@@ -39661,9 +39751,9 @@
     },
     {
         "iata_code": "RUL",
-        "icao_code": null,
-        "name": "Maavaarulaa Airport",
-        "location": "Gaddhoo"
+        "icao_code": "VRQM",
+        "name": "Maavarulu Airport",
+        "location": "Gaafu Dhaalu Atoll"
     },
     {
         "iata_code": "RUM",
@@ -39916,6 +40006,12 @@
         "icao_code": "OPSW",
         "name": "Sawan Airport",
         "location": "Sawan"
+    },
+    {
+        "iata_code": "RZV",
+        "icao_code": "LTFO",
+        "name": "Rize\u2013Artvin Airport",
+        "location": "Rize Province"
     },
     {
         "iata_code": "RZZ",
@@ -40280,7 +40376,7 @@
     {
         "iata_code": "SCL",
         "icao_code": "SCEL",
-        "name": "Comodoro Arturo Merino Ben\u00edtez International Airport",
+        "name": "Arturo Merino Ben\u00edtez International Airport",
         "location": "Santiago"
     },
     {
@@ -40674,6 +40770,12 @@
         "location": "San Felipe"
     },
     {
+        "iata_code": "SFI",
+        "icao_code": "GMMS",
+        "name": "Safi Airport",
+        "location": "Safi"
+    },
+    {
         "iata_code": "SFJ",
         "icao_code": "BGSF",
         "name": "Kangerlussuaq Airport",
@@ -40792,6 +40894,12 @@
         "icao_code": "KSGF",
         "name": "Springfield\u2013Branson National Airport",
         "location": "Springfield"
+    },
+    {
+        "iata_code": "SGG",
+        "icao_code": "WBGY",
+        "name": "Simanggang Airport",
+        "location": "Sri Aman"
     },
     {
         "iata_code": "SGH",
@@ -41278,6 +41386,12 @@
         "icao_code": "SBUA",
         "name": "S\u00e3o Gabriel da Cachoeira Airport",
         "location": "S\u00e3o Gabriel da Cachoeira"
+    },
+    {
+        "iata_code": "SJM",
+        "icao_code": "MDSJ",
+        "name": "San Juan de la Maguana Airport",
+        "location": "San Juan de la Maguana"
     },
     {
         "iata_code": "SJN",
@@ -44070,6 +44184,12 @@
         "location": "Thaba 'Nchu"
     },
     {
+        "iata_code": "TCV",
+        "icao_code": "FQTE",
+        "name": "Tete Airport",
+        "location": "Tete"
+    },
+    {
         "iata_code": "TCW",
         "icao_code": "YTOC",
         "name": "Tocumwal Airport",
@@ -44642,7 +44762,7 @@
     {
         "iata_code": "THU",
         "icao_code": "BGTL",
-        "name": "Thule Air Base",
+        "name": "Pituffik Space Base",
         "location": "Pituffik"
     },
     {
@@ -44782,6 +44902,12 @@
         "icao_code": "VOTP",
         "name": "Tirupati Airport",
         "location": "Tirupati"
+    },
+    {
+        "iata_code": "TIS",
+        "icao_code": null,
+        "name": "Thursday Island Airport",
+        "location": "Thursday Island"
     },
     {
         "iata_code": "TIU",
@@ -46758,6 +46884,12 @@
         "location": "Ube"
     },
     {
+        "iata_code": "UBN",
+        "icao_code": "ZMCK",
+        "name": "Chinggis Khaan International Airport",
+        "location": "Sergelen, T\u00f6v"
+    },
+    {
         "iata_code": "UBP",
         "icao_code": "VTUU",
         "name": "Ubon Ratchathani Airport",
@@ -47918,7 +48050,7 @@
     {
         "iata_code": "VAM",
         "icao_code": "VRMV",
-        "name": "Villa International Airport",
+        "name": "Villa International Airport Maamigili",
         "location": "Maamigili"
     },
     {
@@ -48212,7 +48344,7 @@
     {
         "iata_code": "VGA",
         "icao_code": "VOBZ",
-        "name": "Vijayawada Airport",
+        "name": "NTR Amaravati International Airport",
         "location": "Vijayawada"
     },
     {
@@ -49362,6 +49494,12 @@
         "location": "Wagny"
     },
     {
+        "iata_code": "WHA",
+        "icao_code": "ZSWA",
+        "name": "Wuhu Xuanzhou Airport",
+        "location": "Wuhu"
+    },
+    {
         "iata_code": "WHD",
         "icao_code": null,
         "name": "Hyder Seaplane Base",
@@ -49408,12 +49546,6 @@
         "icao_code": "KARM",
         "name": "Wharton Regional Airport",
         "location": "Wharton"
-    },
-    {
-        "iata_code": "WHU",
-        "icao_code": "ZSWU",
-        "name": "Wuhu Airport",
-        "location": "Wuhu"
     },
     {
         "iata_code": "WIB",
@@ -50004,6 +50136,12 @@
         "location": "Shirley"
     },
     {
+        "iata_code": "WSI",
+        "icao_code": null,
+        "name": "Western Sydney Airport",
+        "location": "Sydney"
+    },
+    {
         "iata_code": "WSK",
         "icao_code": "ZUWS",
         "name": "Chongqing Wushan Airport",
@@ -50353,7 +50491,7 @@
     },
     {
         "iata_code": "XAI",
-        "icao_code": null,
+        "icao_code": "ZHXY",
         "name": "Xinyang Minggang Airport",
         "location": "Xinyang"
     },
@@ -52452,12 +52590,6 @@
         "location": "Oxford House"
     },
     {
-        "iata_code": "YOI",
-        "icao_code": null,
-        "name": "Opinaca Aerodrome",
-        "location": "Opinaca"
-    },
-    {
         "iata_code": "YOJ",
         "icao_code": "CYOJ",
         "name": "High Level Airport",
@@ -53086,6 +53218,12 @@
         "icao_code": null,
         "name": "Tasu Water Aerodrome",
         "location": "Tasu"
+    },
+    {
+        "iata_code": "YTW",
+        "icao_code": "ZWYT",
+        "name": "Yutian Wanfang Airport",
+        "location": "Yutian"
     },
     {
         "iata_code": "YTX",
@@ -53900,7 +54038,7 @@
     {
         "iata_code": "ZHA",
         "icao_code": "ZGZJ",
-        "name": "Zhanjiang Airport",
+        "name": "Zhanjiang Wuchuan Airport",
         "location": "Zhanjiang"
     },
     {
@@ -53914,6 +54052,12 @@
         "icao_code": "CZHP",
         "name": "High Prairie Airport",
         "location": "High Prairie"
+    },
+    {
+        "iata_code": "ZHT",
+        "icao_code": null,
+        "name": "Geneva Railway Station",
+        "location": "Geneva, Switzerland"
     },
     {
         "iata_code": "ZHY",
@@ -54328,6 +54472,12 @@
         "icao_code": "VGSY",
         "name": "Osmani International Airport",
         "location": "Sylhet"
+    },
+    {
+        "iata_code": "ZZE",
+        "icao_code": "UBBZ",
+        "name": "Zangilan International Airport",
+        "location": "Zangilan"
     },
     {
         "iata_code": "ZZO",
